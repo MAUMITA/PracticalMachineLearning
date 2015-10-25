@@ -1,5 +1,5 @@
 ---
-title: "Practical Machine Learning Course Project Wwriteup"
+title: "Practical Machine Learning Course Project Writeup"
 author: "Maumita Niyogi"
 date: "Sunday, October 25, 2015"
 output: pdf_document
